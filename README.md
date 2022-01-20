@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Zdeněk Poznér. I'm student at VSB-TUO, currently finishing my master's degree at mobile technologies.
 - 👀 I’m interested in programming and graphic design resulting in me being mostly front-end dev.
 - 💪 My current skills are: Typescript, Javascript, SCSS and HTML. I'm also capable of developing mobile apps using said technologies.
-  👶🏻 I have basic knowledge of Java, Python, C# and C++.
+- 👶🏻 I have basic knowledge of Java, Python, C# and C++.
 - 🌱 I’m currently learning on my knowledge of database systems.
 
 <!---
