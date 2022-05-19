@@ -2,7 +2,9 @@
 - 👀 I’m interested in programming and graphic design resulting in me being mostly front-end dev.
 - 💪 My current skills are: Typescript, Javascript, SCSS and HTML. I'm also capable of developing mobile apps using said technologies.
 - 👶🏻 I have basic knowledge of Java, Python, C# and C++.
-- 🌱 I’m currently learning on my knowledge of database systems.
+- 🌱 I’m currently working on my knowledge of database systems.
+
+- 🌐 https://pozner.dev/
 
 <!---
 ZdennyPOZ/ZdennyPOZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
